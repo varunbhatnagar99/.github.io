@@ -1,2 +1,2 @@
 # MY RESUME
-<a href="https://varunbhatnagar99.github.io/resume">GO ON, VIEW THE LIVE PROJECT :D<a>
+<a href="https://varunbhatnagar99.github.io/">GO ON, VIEW THE LIVE PROJECT :D<a>
